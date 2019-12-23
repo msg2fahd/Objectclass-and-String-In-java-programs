@@ -1,0 +1,17 @@
+construstors
+ 1. 
+ 2.
+ 3.
+methods
+1.length()
+2.Capasity()
+3.charAt()
+4.SetcharAt()
+5.append()
+6.insert()
+7.delete()
+8.reverse()
+9.setLength()
+10.ensureCapasity()
+11.trimTosize()
+
